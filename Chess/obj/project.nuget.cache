@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "McR8slu03Wj03nkXw7IUMUXGgu5ROLRSK+az8/mgbuKNvGSdl7x0AbtBYR5Y25H/R2LxsuCA8t09sjJD/YnB3g==",
+  "success": true,
+  "projectFilePath": "D:\\source\\repos\\Chess\\Chess\\Chess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brand\\.nuget\\packages\\yamldotnet\\13.0.1\\yamldotnet.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
