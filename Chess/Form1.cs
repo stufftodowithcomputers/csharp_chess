@@ -14,12 +14,22 @@ namespace Chess
 
         private void button3_Click(object sender, EventArgs e)
         {
-            this.Hide();
+            Hide();
 
             Form2 form = new Form2();
             form.ShowDialog();
 
-            this.Show();
+            Show();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Hide();
+
+            Form3 form = new Form3();
+            form.ShowDialog();
+
+            Show();
         }
     }
 }

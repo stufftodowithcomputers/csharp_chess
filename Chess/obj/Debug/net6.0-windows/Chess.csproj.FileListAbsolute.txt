@@ -18,3 +18,6 @@ D:\source\repos\Chess\Chess\obj\Debug\net6.0-windows\ref\Chess.dll
 D:\source\repos\Chess\Chess\obj\Debug\net6.0-windows\Chess.Form2.resources
 D:\source\repos\Chess\Chess\bin\Debug\net6.0-windows\YamlDotNet.dll
 D:\source\repos\Chess\Chess\obj\Debug\net6.0-windows\Chess.csproj.CopyComplete
+D:\source\repos\Chess\Chess\obj\Debug\net6.0-windows\Chess.Form3.resources
+D:\source\repos\Chess\Chess\obj\Debug\net6.0-windows\Chess.Properties.Resources.resources
+D:\source\repos\Chess\Chess\obj\Debug\net6.0-windows\Chess.Board.resources
